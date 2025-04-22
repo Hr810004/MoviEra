@@ -143,7 +143,7 @@ if (isset($_SESSION['url'])) {
             <h1>Login Here</h1>
             <form action="logincode.php" method="post">
                 <p>Username</p>
-                <input type="text" name="usergmail" class="form-control" placeholder="Enter Username" required>
+                <input type="text" name="usergmail" pattern=".*" class="form-control" placeholder="Enter Username" required>
 
                 <p>Password</p>
                 <input type="password" name="pwd" class="form-control" placeholder="Enter Password" required>
