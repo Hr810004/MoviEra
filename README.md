@@ -31,9 +31,6 @@ ___
 ---
 ![output](result5.png)                                                            
 
-### Webiste Link
-[visit website](https://cinematicinema.000webhostapp.com "cinematic")
-
 >>>Keep Smiling:smile: and work hard!:computer:
  
 
